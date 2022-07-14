@@ -6,5 +6,4 @@ job:
   say-hello:
     runs-on: ubuntu-latest
     steps:
-      - name: print command
       - run : echo Hello World
